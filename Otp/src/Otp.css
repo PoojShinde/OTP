@@ -1,0 +1,37 @@
+
+button{
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+    input {
+        margin-top: 10px;
+        margin-right: 10px; /* Adjust this value to control the spacing */
+        width: 25px; /* Optional: Set the width for each input box */
+        height: 25px; /* Optional: Set the height for each input box */
+        text-align: center; /* Center the text inside the input */
+        font-size: 18px; /* Optional: Increase font size for better visibility */
+        border-radius: 5px;
+        border: 1px solid black;
+      }
+
+#root{
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    margin-top: 5px;
+    font-family: sans-serif;
+    
+}
+input{
+    
+padding-left: 10px;
+}
